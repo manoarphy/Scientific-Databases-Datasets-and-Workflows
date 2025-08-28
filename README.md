@@ -6,4 +6,4 @@ Access well‑organized data, ready‑to‑use resources, and reproducible pipel
 
 Find **property databases**, **simulation‑ready datasets**, and practical tools to streamline computational studies.  
 
-🔗 [Visit the portal](https://manoarphy.github.io/Scientific-Databases-Datasets-and-Workflows/)
+<a href="https://manoarphy.github.io/Scientific-Databases-Datasets-and-Workflows/" target="_blank">🔗 Visit the portal</a>
